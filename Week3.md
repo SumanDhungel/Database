@@ -53,6 +53,7 @@ select screen_name, co2_budget, co2_consumed, (co2_budget - co2_consumed) as co2
 
 
 
+
 #ex3 Qno.1
 select country.name as "country name", airport.name as "airport name"
 -> from country, airport
